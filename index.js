@@ -20,7 +20,6 @@ if (string.toLowerCase(string)===string){
 else if (string.toUpperCase(string)===string){
     return canHear;
 }
-else if ((string)==='Let\'s have dinner together!'){
+else if ((string)==='Let\'s have dinner together!') 
     return loveYou
-}
 }
